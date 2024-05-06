@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11121497.svg)](https://doi.org/10.5281/zenodo.11121497)
 # Indian Disaster Tweets Dataset
 
 ## Abstract
